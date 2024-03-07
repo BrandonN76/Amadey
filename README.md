@@ -11,7 +11,7 @@ In this analysis, I'll be examining “Blamer.exe,” a member of the Amadey mal
 - SHA-1: 69b63ef20df1f2243a2a5c6eba2663d3eb4773bb  
 - SHA-256: 6d3cd39358c91c56b4798b64c73f03e3877a80dffe01d07e2ad13e979e845ed0
 
-**Original File Name:** Blamer.exe  
+**Original File Name:** Utsysc.exe  
 **Presented File Name:** 6d3cd39358c91c56b4798b64c73f03e3877a80dffe01d07e2ad13e979e845ed0.exe  
 **File Size:** 363008 bytes  
 **File Type:** PE32  
