@@ -2,7 +2,7 @@
 ### Amadey Family
 
 **Description:**  
-In this analysis, I'll be examining “Blamer.exe,” a member of the Amadey malware family. Through both static and dynamic analyses, I aim to uncover the key characteristics, functionalities, and potential impact of this malware on compromised systems.
+In this analysis, I'll be examining “Utsysc.exe” a member of the Amadey malware family. Through both static and dynamic analyses, I aim to uncover the key characteristics, functionalities, and potential impact of this malware on compromised systems.
 
 **VirusTotal Report:**
 <img src="https://i.imgur.com/A5LNpRd.png">
